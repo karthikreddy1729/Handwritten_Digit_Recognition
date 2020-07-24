@@ -18,7 +18,7 @@ The handwritten digit recognition is the ability of computers to recognize human
 
 * The model is saved as a json file 'model' and the weights are saved in 'mode.h5' and stored in the folder model
 
-## Downloading the dataset
+## Dataset
 you can download the dataset from the link given (https://www.kaggle.com/c/digit-recognizer/data) ::
 * =>Download the dataset and put it in a folder named dataset
 
